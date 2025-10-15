@@ -10,6 +10,6 @@ public class Demo {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello Malla reddy College";
+        return "Welcome to Devops session";
     }
 }
